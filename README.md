@@ -1,9 +1,9 @@
 # TP POO - Biblioteca (Grupo X)
 
 ## Integrantes
-- Nombre Apellido
-- Nombre Apellido
-- Nombre Apellido
+- Martina Saldías
+- Francisco Leonori
+- Renzo Beribé
 
 ## Cómo ejecutarlo
 Requiere Python 3. Desde la carpeta del repositorio:
